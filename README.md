@@ -1,6 +1,6 @@
-# [ Project ]
+# [ Open Meat ]
 
-[ Project vision or mission statement. [Tips on writing your vision](https://acabunoc.github.io/mozfest-open-projects-2016/articles/vision/).]
+[  Finding different ways to grow food from cells instead of animals - creating a muscle tissue bioreactor and process design ]
 
 [ If you have one, add your logo or an image here ]
 
